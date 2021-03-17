@@ -2,7 +2,8 @@
 
 To add a user account:  
 
-1. Go to the **Users** module default view in the ownCloud server.      
+1. Go to the **Users** module default view in the ownCloud server.  
+    
    ![default view](https://doc.owncloud.com/server/10.6/admin_manual/_images/configuration/user/users-page.png " default view")  
 
 2. In the default view, enter the new user’s **Login Name** and **E-Mail**.  
@@ -10,6 +11,7 @@ To add a user account:
 3. Assign group membership (this step is optional).  
 
 4. Click the **Create** button.   
+
    ![new user](https://doc.owncloud.com/server/10.6/admin_manual/_images/configuration/user/users-page-new-user.png "new user")  
 
     **NOTE**  
