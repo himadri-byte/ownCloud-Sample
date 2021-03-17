@@ -26,4 +26,4 @@ Please follow the links from the list below to go to the respective topics:
 
 * [Installation and Configuration Using Docker](./Docker.md)
 * [Add User Account](./User%20accounts.md)
-* [Connect to The ownCloud Server](./Connect%20to%20ownCloud.md)
+* [Connect to The ownCloud Server](./Connect%20to%20ownCloud.md) 
