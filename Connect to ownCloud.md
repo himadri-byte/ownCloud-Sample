@@ -1,4 +1,4 @@
-#Connect To The ownCloud Server  
+# Connect To The ownCloud Server  
 
 You can connect to the ownCloud server using a desktop or mobile client. In this guide, we will discuss connecting to the ownCloud server using the Android app. You can find the other methods using the following links:  
 
