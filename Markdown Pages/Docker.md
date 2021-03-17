@@ -62,12 +62,11 @@ When the process completes, check that all the containers have successfully star
 
 In the results, you can see that the database, ownCloud, and Redis containers are running, and that ownCloud is accessible via port 8080 on the host machine.  
 
-##Log In  
+## Log In  
 
 1. To log in to the ownCloud UI, open `http://localhost:8080` in your browser. The ownCloud login screen will appear. ![Login Image](https://doc.owncloud.com/server/10.6/admin_manual/_images/docker/owncloud-ui-login.png "Login Image")  
-
 2. Enter the user name and passwords in the provided fields. These should be the same user name and passwords that you used in the `.env` earlier.  
 
-##Other Configuration Options  
+## Other Configuration Options  
 
 Other configurations for ownCloud installation using Docker are available in the [detailed installation guide](https://doc.owncloud.com/server/10.6/admin_manual/installation/docker/ "detailed installation guide"). 
