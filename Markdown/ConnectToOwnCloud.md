@@ -14,7 +14,7 @@ To connect to the ownCloud server:
 
 1. Open the ownCloud Android app. The configuration screen appears.     
   
-  ![Configuration screen](https://doc.owncloud.com/android/_images/android-2.png "Configuration screen")  
+   ![Configuration screen](https://doc.owncloud.com/android/_images/android-2.png "Configuration screen")  
 
 2. On the configuration screen, enter your server URL, login name, and password.  
 
@@ -26,14 +26,9 @@ To connect to the ownCloud server:
 
 4. Enable the SSL certificate by selecting the **YES** button on the trust certificate screen.   
   
-  ![trust certificate](https://doc.owncloud.com/android/_images/android-3.png "trust certificate")  
+   ![trust certificate](https://doc.owncloud.com/android/_images/android-3.png "trust certificate")  
 
-    **Important**  
-
-    For best security, your ownCloud server should be SSL-enabled so that you can connect via HTTPS. The 
-    ownCloud Android App will test your connection as soon as you provide it and tell you if you entered it 
-    correctly. If your server has a self-signed SSL certificate, you’ll get a warning that it is not to be 
-    trusted. If this happens, click the **YES** button to accept the certificate and complete your account 
-    setup.  
+**Important**  
+For best security, your ownCloud server should be SSL-enabled so that you can connect via HTTPS. The ownCloud Android App will test your connection as soon as you provide it and tell you if you entered it correctly. If your server has a self-signed SSL certificate, you’ll get a warning that it is not to be trusted. If this happens, click the **YES** button to accept the certificate and complete your account setup.  
 
 5. Now you are connected and ready to use the ownCloud Android App. 
