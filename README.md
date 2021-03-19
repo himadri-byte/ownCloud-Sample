@@ -15,7 +15,7 @@ ownCloud can be accessed via the web using most browsers, it also has desktop ve
 
 ## Installation and Configuration
  
-There are multiple ways to install an ownCloud server. In this guide, we will discuss [installing and configuring ownCloud with Docker](./Markdown%20Pages/Docker.md). You can find the other methods in the following links on the manufacturer's website: 
+There are multiple ways to install an ownCloud server. In this guide, we will discuss [installing and configuring ownCloud with Docker](./Markdown/Docker.md). You can find the other methods in the following links on the manufacturer's website: 
 
 *  [Manual Installation](https://doc.owncloud.com/server/10.6/admin_manual/installation/manual_installation/index.html/ "Manual Installation")
 *  [Installation On Ubuntu](https://doc.owncloud.com/server/10.6/admin_manual/installation/quick_guides/index.html/ "Installation On Ubuntu")
